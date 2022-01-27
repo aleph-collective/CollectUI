@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0-A",
+	"FriendlyName": "CollectUI",
+	"Description": "",
+	"Category": "Miscellaneous",
+	"CreatedBy": "whiteex",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "CollectUI",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
